@@ -1,0 +1,11 @@
+license_plate,vehicle_type,time_of_violation,location,fine_amount
+GJ05AB0000,Car,2025-10-30 09:00,Vadodara Signal,500
+GJ05AB0001,Bike,2025-10-30 09:15,Vadodara Signal,300
+GJ05AB0002,Truck,2025-10-30 09:30,Vadodara Signal,800
+GJ05AB0003,Car,2025-10-30 09:45,Vadodara Signal,400
+GJ05AB0004,Bus,2025-10-30 10:00,Vadodara Signal,600
+GJ05AB0005,Car,2025-10-30 10:15,Vadodara Signal,500
+GJ05AB0006,Auto,2025-10-30 10:30,Vadodara Signal,300
+GJ05AB0007,Truck,2025-10-30 10:45,Vadodara Signal,700
+GJ05AB0008,Bike,2025-10-30 11:00,Vadodara Signal,350
+GJ05AB0009,Bus,2025-10-30 11:15,Vadodara Signal,650
