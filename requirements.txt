@@ -1,16 +1,15 @@
-pip install pandas==2.2.2
-pip install opencv-python==4.10.0.84
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-pip install ultralytics
-pip install Flask==3.0.3
-pip install SQLAlchemy psycopg2-binary
-pip install matplotlib seaborn
-pip install tqdm
-pip install pandas==2.2.2
-pip install opencv-python==4.10.0.84
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-pip install ultralytics
-pip install Flask==3.0.3
-pip install SQLAlchemy psycopg2-binary
-pip install matplotlib seaborn
-pip install tqdm
+pandas==2.2.2
+Flask==3.0.3
+opencv-python==4.10.0.84
+ultralytics==8.2.0
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
+SQLAlchemy==2.0.23
+mysqlclient
+mysql-connector-python
+psycopg2-binary
+matplotlib==3.8.2
+seaborn==0.13.0
+tqdm
